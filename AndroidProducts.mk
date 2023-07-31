@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_sweet.mk
+    $(LOCAL_DIR)/syberia_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_sweet-user \
-    derp_sweet-userdebug \
-    derp_sweet-eng
+    syberia_sweet-user \
+    syberia_sweet-userdebug \
+    syberia_sweet-eng
